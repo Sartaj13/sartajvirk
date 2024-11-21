@@ -1,0 +1,26 @@
+﻿  code.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(6,2): error C2144: erro de sintaxe: 'int' deve ser precedido por ';'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(7,7): error C2143: erro de sintaxe: ';' ausente antes de '<<'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(7,2): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(7,7): error C2059: erro de sintaxe: '<<'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(8,6): error C2143: erro de sintaxe: ';' ausente antes de '>>'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(8,2): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(8,6): error C2059: erro de sintaxe: '>>'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,2): warning C4138: '*/' encontrado fora de comentário
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,3): error C2059: erro de sintaxe: '/'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,15): error C2143: erro de sintaxe: ')' ausente antes de ';'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,19): error C2143: erro de sintaxe: ';' ausente antes de '<'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,17): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,19): error C2059: erro de sintaxe: '<'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,27): error C2143: erro de sintaxe: ';' ausente antes de '++'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,26): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,26): error C2086: 'int i': redefinição
+      C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,17):
+      consulte a declaração de 'i'
+  
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,27): error C2059: erro de sintaxe: '++'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(9,29): error C2059: erro de sintaxe: ')'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(10,2): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(10,2): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(15,2): warning C4138: '*/' encontrado fora de comentário
+C:\Users\User.DESKTOP-OALRU3A\source\repos\code\code\code.cpp(15,3): error C2059: erro de sintaxe: '/'
