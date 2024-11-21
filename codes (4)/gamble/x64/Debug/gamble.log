@@ -1,0 +1,5 @@
+﻿  gambling.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\gamble\gamble\gambling.cpp(7,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\gamble\gamble\gambling.cpp(10,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\User.DESKTOP-OALRU3A\source\repos\gamble\gamble\gambling.cpp(9,19): warning C4101: 'bigwin': variável local não referenciada
+  gamble.vcxproj -> C:\Users\User.DESKTOP-OALRU3A\source\repos\gamble\x64\Debug\gamble.exe

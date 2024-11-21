@@ -1,0 +1,3 @@
+﻿  code.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project3\Project3\code.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Project3.vcxproj -> C:\Users\User.DESKTOP-OALRU3A\source\repos\Project3\x64\Debug\Project3.exe
