@@ -1,0 +1,3 @@
+﻿  nukk.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\nuk1\nuk1\nukk.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  nuk1.vcxproj -> C:\Users\User.DESKTOP-OALRU3A\source\repos\nuk1\x64\Debug\nuk1.exe
