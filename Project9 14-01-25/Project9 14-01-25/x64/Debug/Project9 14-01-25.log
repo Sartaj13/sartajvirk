@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9 14-01-25\Project9 14-01-25\FileName.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9 14-01-25\Project9 14-01-25\FileName.cpp(17,9): error C2562: 'main': função 'void' retornando um valor
+      C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9 14-01-25\Project9 14-01-25\FileName.cpp(5,6):
+      consulte a declaração de 'main'
+  

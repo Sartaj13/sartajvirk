@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9\Project9\FileName.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9\Project9\FileName.cpp(6,17): warning C4101: 'dontpay': variável local não referenciada
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9\Project9\FileName.cpp(6,9): warning C4101: 'j': variável local não referenciada
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9\Project9\FileName.cpp(6,26): warning C4101: 'qubradado': variável local não referenciada
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9\Project9\FileName.cpp(6,12): warning C4101: 'pay': variável local não referenciada
+  Project9.vcxproj -> C:\Users\User.DESKTOP-OALRU3A\source\repos\Project9\x64\Debug\Project9.exe
